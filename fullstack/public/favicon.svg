@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Circular dark background with subtle border -->
+  <circle cx="256" cy="256" r="256" fill="#111111"/>
+  <circle cx="256" cy="256" r="240" fill="#1a1a1a"/>
+  <!-- "A" letter -->
+  <text x="190" y="345" text-anchor="middle" font-family="Inter, system-ui, -apple-system, sans-serif" font-weight="700" font-size="280" fill="#ffffff" letter-spacing="-10">A</text>
+  <!-- "C" letter -->
+  <text x="340" y="345" text-anchor="middle" font-family="Inter, system-ui, -apple-system, sans-serif" font-weight="700" font-size="280" fill="#ffffff" letter-spacing="-10">C</text>
+</svg>
